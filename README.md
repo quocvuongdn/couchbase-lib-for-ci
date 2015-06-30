@@ -1,5 +1,5 @@
 # Couchbase_class_for_CodeIgniter
-Copy sub-folders to application of CodeIgniter project
-Run demo in controllers file (cb_test.php)
+1. Copy sub-folders to application of CodeIgniter project
+2. Run demo in controllers file (cb_test.php)
 
-Thanks!
+#### Thanks!
