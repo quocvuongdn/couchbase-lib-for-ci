@@ -7,3 +7,10 @@ A library to help developers work with Couchbase faster (save time to make the s
 
 *If you have any question or issue, please add it to project, I will update when I available.*
 
+### Available methods
+- set
+- get
+- update_multiple
+- replace
+- delete
+- __construct `# to initialize config`
