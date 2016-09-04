@@ -14,3 +14,4 @@ A library to help developers work with Couchbase faster (save time to make the s
 - replace
 - delete
 - __construct `# to initialize config`
+- get_instance
