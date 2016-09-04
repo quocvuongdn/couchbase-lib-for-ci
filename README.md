@@ -1,4 +1,4 @@
-# Couchbase library for CodeIgniter
+# Couchbase library for CodeIgniter (for version 1.1.2 client)
 A library to help developers work with Couchbase faster (save time to make the same thing).
 
 ### How to run?
