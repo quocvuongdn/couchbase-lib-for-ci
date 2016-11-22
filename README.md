@@ -1,5 +1,8 @@
-# Couchbase library for CodeIgniter (for version 1.1.2 client)
+# Couchbase library for CodeIgniter
 A library to help developer works with Couchbase faster (save time to make the same thing).
+
+### Compatible
+* Couchbase version 
 
 ### How to run?
 1. Copy sub-folders to application of CodeIgniter project
