@@ -2,7 +2,7 @@
 A library to help developer works with Couchbase faster (save time to make the same thing).
 
 ### Compatible
-* Couchbase version 
+* Couchbase version 1.1.2
 
 ### How to run?
 1. Copy sub-folders to application of CodeIgniter project
